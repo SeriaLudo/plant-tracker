@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "ficus elastica",
+        "aka": "rubber plant",
+        "position": "left of TV",
+        "sunlight": "partial direct",
+        "watering history": [],
+        "pottingHistory": [],
+        "ideal conditions": {
+            "temperature": "15 - 24°C. Avoid lower than 12°C, sudden temperature drops and cold drafts.",
+            "light": "brightly lit, without direct sunlight.",
+            "watering": "Water once the soil becomes slightly dry to the touch . The worst thing you can do over-water.",
+            "soil":	"A well-draining and well-aerated potting soil is needed. 1 part peat, 1 part pine bark and 1 part coarse sand (or perlite) is a good mix.",
+            "rePotting":	"From May - June re-pot once the roots have become pot bound or every year when the plants are very young, and then once every 3 years after the plant has matured. Renew soil every year.",
+            "fertilizer":	"Feed during spring and summer with a diluted liquid fertilizer every two weeks.",
+            "humidity":	"Normal room humidity is fine. To improve humidity mist the leaves when it gets very warm in the summer.",
+            "propagation": "These can be quite tricky to propagate by stem tip cuttings, but you can succeed. Take a cutting (few inches long) and allow the sap to dry for 1 hour. Before potting the cutting in soil use rooting hormone and then provide the bottom of the pot some heat (usually using a heat pad). The temperature wants to be kept at around 21°C - 24°C ideally.",
+            "pruning": "Once the rubber plant has grown to the height you want it to grow up to, you can cut the top off. You may also want to prune back any unwanted branches to give the plant a fuller shape. It's best to prune in spring or summer but any other time will be fine."
+        },
+        "notes": ""
+    },
+    {
+        "id": 2,
+        "name": "fun nice orchid plant",
+        "aka": "<3",
+        "position": "right of TV",
+        "sunlight": "partial direct",
+        "watering history": [],
+        "pottingHistory": [],
+        "ideal conditions": {
+            "temperature": "15 - 24°C. Avoid lower than 12°C, sudden temperature drops and cold drafts.",
+            "light": "brightly lit, without direct sunlight.",
+            "watering": "Water once the soil becomes slightly dry to the touch . The worst thing you can do over-water.",
+            "soil":	"A well-draining and well-aerated potting soil is needed. 1 part peat, 1 part pine bark and 1 part coarse sand (or perlite) is a good mix.",
+            "rePotting":	"From May - June re-pot once the roots have become pot bound or every year when the plants are very young, and then once every 3 years after the plant has matured. Renew soil every year.",
+            "fertilizer":	"Feed during spring and summer with a diluted liquid fertilizer every two weeks.",
+            "humidity":	"Normal room humidity is fine. To improve humidity mist the leaves when it gets very warm in the summer.",
+            "propagation": "These can be quite tricky to propagate by stem tip cuttings, but you can succeed. Take a cutting (few inches long) and allow the sap to dry for 1 hour. Before potting the cutting in soil use rooting hormone and then provide the bottom of the pot some heat (usually using a heat pad). The temperature wants to be kept at around 21°C - 24°C ideally.",
+            "pruning": "Once the rubber plant has grown to the height you want it to grow up to, you can cut the top off. You may also want to prune back any unwanted branches to give the plant a fuller shape. It's best to prune in spring or summer but any other time will be fine."
+        },
+        "notes": ""
+    },
+    {
+        "id": 3,
+        "name": "fun nice orchid plant #2",
+        "aka": "<3",
+        "position": "right of TV",
+        "sunlight": "partial direct",
+        "watering history": [],
+        "pottingHistory": [],
+        "ideal conditions": {
+            "temperature": "15 - 24°C. Avoid lower than 12°C, sudden temperature drops and cold drafts.",
+            "light": "brightly lit, without direct sunlight.",
+            "watering": "Water once the soil becomes slightly dry to the touch . The worst thing you can do over-water.",
+            "soil":	"A well-draining and well-aerated potting soil is needed. 1 part peat, 1 part pine bark and 1 part coarse sand (or perlite) is a good mix.",
+            "rePotting":	"From May - June re-pot once the roots have become pot bound or every year when the plants are very young, and then once every 3 years after the plant has matured. Renew soil every year.",
+            "fertilizer":	"Feed during spring and summer with a diluted liquid fertilizer every two weeks.",
+            "humidity":	"Normal room humidity is fine. To improve humidity mist the leaves when it gets very warm in the summer.",
+            "propagation": "These can be quite tricky to propagate by stem tip cuttings, but you can succeed. Take a cutting (few inches long) and allow the sap to dry for 1 hour. Before potting the cutting in soil use rooting hormone and then provide the bottom of the pot some heat (usually using a heat pad). The temperature wants to be kept at around 21°C - 24°C ideally.",
+            "pruning": "Once the rubber plant has grown to the height you want it to grow up to, you can cut the top off. You may also want to prune back any unwanted branches to give the plant a fuller shape. It's best to prune in spring or summer but any other time will be fine."
+        },
+        "notes": ""
+    }
+]
